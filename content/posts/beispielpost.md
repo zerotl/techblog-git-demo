@@ -17,5 +17,4 @@ Dies ist ein Beispielartikel. Alice und Bob verfassen ihn gemeinsam. Während Al
 
 ## Abschnitt 2
 
-[TBD by Bob]
-
+Das ist der Abschnitt von Bob. Er ist sehr gut.
