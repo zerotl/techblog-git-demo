@@ -12,7 +12,7 @@ Dies ist ein Beispielartikel. Alice und Bob verfassen ihn gemeinsam. Während Al
 
 ## Abschnitt 1
 
-[TBD by Alice]
+das hier ist mein Abschnitt. Alice hat das hier bearbeitet. 
 
 
 ## Abschnitt 2
